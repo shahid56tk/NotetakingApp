@@ -11,6 +11,7 @@ import Navigation from './src/navigation';
 //     shouldShowAlert: true,
 //     shouldPlaySound: false,
 //     shouldSetBadge: false,
+
 //   }),
 // });
 
